@@ -7,4 +7,6 @@ Some of the tasks includes creating/deleting/Merging branches.
 
 -> This simulates a team building and releasing a product using the Gitflow workflow.
 
-  
+Below you can find a screenshot summarizing what we are working on.
+
+![Project](https://raw.githubusercontent.com/nidhalBougatf/Git-Final-Assignment/master/Git_Project_Screenshot.PNG)
